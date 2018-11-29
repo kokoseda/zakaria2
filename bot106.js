@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 
-const prefix = "107"
+const prefix = "106"
 const devs = ['420637382644072451','314135031029170197']
 
 
@@ -83,4 +83,4 @@ if (message.content.startsWith('setavatar')) {
 
 
 
-client.login(process.env.BOT_TOKEN107); 
+client.login(process.env.BOT_TOKEN106); 
