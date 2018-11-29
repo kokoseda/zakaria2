@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 
-const prefix = "70"
+const prefix = "78"
 const devs = ['420637382644072451','314135031029170197']
 
 
